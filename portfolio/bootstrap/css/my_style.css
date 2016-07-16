@@ -11,12 +11,15 @@
 }
 
 @media screen and (max-width: 991px) {
-	.person, .logo {
+	.person, 
+	.logo {
 		width: 50%;
 	}
+
 	.person-name {
 		font-size: 2em;
 	}
+
 	.person-title {
 		font-size: 1.5em;
 	}
@@ -26,15 +29,19 @@
 	.person {
 		width: 66.666666%;
 	}
+
 	.logo {
 		width: 33.333333%;
 	}
+
 	.logo-image {
 		width: 61%;
 	}
+
 	.person-name {
 		font-size: 1.5em;
 	}
+	
 	.person-title {
 		font-size: 1em;
 	}
